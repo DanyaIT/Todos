@@ -5,7 +5,7 @@ Todo-list для контроля и распределения повседне
 1. React
 2. TypeScript
 3. CSS
-4. TSX
+   
 # Старт
   1. npm i
   2. npm start
